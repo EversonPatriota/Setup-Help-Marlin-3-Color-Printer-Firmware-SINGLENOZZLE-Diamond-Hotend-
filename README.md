@@ -1,0 +1,2 @@
+# Setup-Help-Marlin-3-Color-Printer-Firmware-SINGLENOZZLE-Diamond-Hotend-
+Hello, I'm Brazilian and I'm trying to set up the Marlin fimware for my electronic rumba biqu that will control a printer with 3 extruders and a SINGLENOZZLE, Diamond Hotend type spout. As a beginner, it is very difficult to set up the Marlin, it always generates errors. Is there any file ready for me to download and just change the parameters? I am very grateful if you can help me! 
